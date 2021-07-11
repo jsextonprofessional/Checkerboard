@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.square {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+
+.square0 {
+    background-color: hotpink;
+}
+
+.square1 {
+    background-color: rgb(255, 255, 143);
+}
